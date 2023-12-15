@@ -1,0 +1,1 @@
+//arrow function para entrar em cada

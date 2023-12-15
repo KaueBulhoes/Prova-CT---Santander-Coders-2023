@@ -1,0 +1,12 @@
+Q01 - C
+O código irá multiplicar "produto" por "fator" e depois "fator" irá aumentar em 2, continuando o loop até "fator" ser igual ou menor 10.
+Como fator começa em 3 e é acrescido 2, haverá apenas 4 iterações, finalizando com "fator" = 9 e "produto" = 945
+
+
+Q02 - B
+O código forma uma matriz, com um loop externo fator "i" e um interno fator "j", cada iteração aumentará o contador "j" em 1 e irá sair de "j" para "i" quando "j" for menor ou igual a 1.
+
+Q03 - C
+A função irá filtra as palavras dentro do array passado de acordo com o variável "tamanhoMinimo", nesse caso o "tamanhoMinimo" passado foi de 5, então apenas palavras com a quantidade de letras maior ou igual a 5 serão filtradas em "resultado"
+
+Q04 - 
