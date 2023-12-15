@@ -8,5 +8,3 @@ O código forma uma matriz, com um loop externo fator "i" e um interno fator "j"
 
 Q03 - C
 A função irá filtra as palavras dentro do array passado de acordo com o variável "tamanhoMinimo", nesse caso o "tamanhoMinimo" passado foi de 5, então apenas palavras com a quantidade de letras maior ou igual a 5 serão filtradas em "resultado"
-
-Q04 - 
